@@ -1,0 +1,12 @@
+server:
+  port: 3344
+  
+spring:
+  application:
+    name: cloud-config
+  cloud:
+    config:
+      server:
+        git:
+          uri: git@github.com:wuligang/cloud-config-test.git
+          passphrase: wuligang

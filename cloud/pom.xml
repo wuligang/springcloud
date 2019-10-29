@@ -100,5 +100,6 @@
 		<module>cloud-provider-dept-hystrix-8001</module>
 		<module>cloud-consumer-hystrix-dashboard</module>
 		<module>cloud-zuul-gateway-9527</module>
+		<module>cloud-config-3344</module>
 	</modules>
 </project>
